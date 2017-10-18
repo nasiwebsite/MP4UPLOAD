@@ -9,47 +9,24 @@ jwplayer().registerPlugin("ping","7.0",function(e){var n,i,t,o=this;e.on("playli
 jwplayer.defaults = {
   "aspectratio": "16:9",
   "autostart": false,
+  "cast": {
+    "appid": "00000000"
+  },
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
-  "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.0.0/jwplayer.flash.swf",
+  "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.12.8/jwplayer.flash.swf",
   "height": 260,
-  "key": "XL04lzVjoYfAg9gBon60EcHKER0fe2rCVooekyUNmnElTF9KJyh6U7HiVLc=",
-  "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/uWZYZsGf.png",
-    "hide": true,
-    "margin": "10",
-    "position": "top-right"
-  },
+  "key": "YNzZXFHXx8Dw76WXDom+0Il9s+XHguETMhAwCamfAbwWzrzoYq3LUB297bo=",
   "mute": false,
   "ph": 1,
-  "pid": "yYzjh9lV",
-  "playbackRateControls": false,
+  "pid": "pJFWQ7yR",
   "plugins": {
     "ping": {}
   },
+  "preload": "none",
+  "primary": "html5",
   "repeat": false,
-  "skin": {
-    "controlbar": {
-      "background": "#000000",
-      "icons": "#CCCCCC",
-      "iconsactive": "#FFFFFF",
-      "text": "#F2F2F2"
-    },
-    "menus": {
-      "background": "#333333",
-      "text": "#F2F2F2",
-      "textactive": "#FFFFFF"
-    },
-    "timeslider": {
-      "progress": "#F2F2F2",
-      "rail": "#FFFFFF"
-    },
-    "tooltips": {
-      "background": "#FFFFFF",
-      "text": "#333333"
-    }
-  },
   "stagevideo": false,
   "stretching": "uniform",
   "width": "100%"
