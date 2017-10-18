@@ -18,6 +18,12 @@ jwplayer.defaults = {
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.12.8/jwplayer.flash.swf",
   "height": 260,
   "key": "YNzZXFHXx8Dw76WXDom+0Il9s+XHguETMhAwCamfAbwWzrzoYq3LUB297bo=",
+  "logo": {
+  "file": "https://assets-jpcust.jwpsrv.com/watermarks/uWZYZsGf.png",
+  "hide": true,
+  "margin": "10",
+  "position": "top-right"
+  },
   "mute": false,
   "ph": 1,
   "pid": "pJFWQ7yR",
