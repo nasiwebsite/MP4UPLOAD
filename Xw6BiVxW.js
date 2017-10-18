@@ -12,7 +12,7 @@ jwplayer.defaults = {
   "displaydescription": false,
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.12.8/jwplayer.flash.swf",
-  "height": 100%,
+  "height": 360,
   "key": "srnfxQaIfKcpQ3x2gCVQbqviJmMowXAGV4wPVFBu/8Hk5qqUGtdjMclFCtY=",
   "ph": 1,
   "pid": "Xw6BiVxW",
@@ -23,5 +23,5 @@ jwplayer.defaults = {
   "repeat": false,
   "stagevideo": false,
   "stretching": "uniform",
-  "width": 100%
+  "width": 640
 };
